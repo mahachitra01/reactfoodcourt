@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+  }
+  .navbar{
+    color: rgb(130, 51, 31);
+    background-color: rgba(232, 177, 157, 0.959);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .listitems{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    color: #5D4037;
+    column-gap: 10px;
+  }
+  /* ul{
+    margin-left: 60%;
+  } */ 
+  li{
+    cursor: pointer;
+        color: #5D4037;
+
+  }
+  input{
+    width: 60%;
+    padding: 15px;
+  }
+  /* .searchbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+  } */
+
+  
+  /* .box{
+    border-color: black;
+    border-width:2px;
+    border-style: solid;
+    display: inline-block;
+    width:280px;
+  }
+  .box1{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 280px;
+  }
+  .box2{
+     border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 205px;
+  } */
+  /* .box:hover{
+    background-color: black;
+    color: white;
+  }
+  .box1:hover{
+    background-color: black;
+    color: white;
+  }
+  .box2:hover{
+    background-color: black;
+    color: white;
+  } */
+  
+  /* .menus{
+        text-align:center;
+  
+    } */
+  .about{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+  }
+  .contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 40px;
+  }
+    
+  
